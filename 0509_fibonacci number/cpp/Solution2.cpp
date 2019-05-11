@@ -3,7 +3,7 @@
 #include <algorithm>
 
 using namespace std;
-class Solution
+class Solution2
 {
 public:
   int fib(int N)
@@ -25,6 +25,6 @@ public:
 int main()
 {
 
-  cout << Solution().fib(10) << endl;
+  cout << Solution2().fib(10) << endl;
   return 0;
 }

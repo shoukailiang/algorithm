@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <iostream>
 using namespace std;
-class Solution
+class Solution1
 {
 public:
   string toLowerCase(string str)
@@ -19,7 +19,7 @@ public:
 };
 int main()
 {
-  string str = Solution().toLowerCase("SDFSDFJS");
+  string str = Solution1().toLowerCase("SDFSDFJS");
   cout << str << " ";
   system("pause");
   return 0;

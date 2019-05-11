@@ -2,7 +2,7 @@
 #include <vector>
 #include <algorithm>
 using namespace std;
-class Solution {
+class Solution1 {
 public:
   vector<int> sortedSquares(vector<int>& A) {
     for (int i = 0; i < A.size(); ++i) {
@@ -15,7 +15,7 @@ public:
 int main()
 {
   vector <int> a ={-4,-1,0,3,10};
-  Solution().sortedSquares(a);
+  Solution1().sortedSquares(a);
   for (int i = 0; i < a.size(); ++i) {
     cout<<a[i]<<endl;
   }

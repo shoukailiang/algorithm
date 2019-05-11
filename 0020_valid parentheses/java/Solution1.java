@@ -1,5 +1,5 @@
 import java.util.Stack;
-class Solution {
+class Solution1 {
     public boolean isValid(String s){
         Stack<Character> stack = new Stack<>();
         for (int i = 0; i < s.length(); i++) {
@@ -25,7 +25,7 @@ class Solution {
         return stack.isEmpty();
     }
     public static void main(String[] args) {
-        System.out.println((new Solution()).isValid(""));
-        System.out.println((new Solution()).isValid("([)]"));
+        System.out.println((new Solution1()).isValid(""));
+        System.out.println((new Solution1()).isValid("([)]"));
     }
 }

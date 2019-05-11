@@ -6,7 +6,7 @@
 #define U 1;
 #define D -1;
 using namespace std;
-class Solution
+class Solution1
 {
 public:
   bool judgeCircle(string moves)
@@ -36,7 +36,7 @@ public:
 };
 int main()
 {
-  bool flag = Solution().judgeCircle("LL");
+  bool flag = Solution1().judgeCircle("LL");
   cout << flag << endl;
   return 0;
 }

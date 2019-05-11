@@ -6,7 +6,7 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
-class Solution {
+class Solution1 {
 public:
   ListNode* removeElements(ListNode* head, int val) {
     while (head!=NULL&& head->val==val){

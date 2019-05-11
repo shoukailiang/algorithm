@@ -1,4 +1,5 @@
-//两层for循环，思路简单，但时间复杂度为O(n^2)，
+// Brute Force
+// Time Complexity: O(n²)
 /**
  * Note: The returned array must be malloced, assume caller calls free().
  */

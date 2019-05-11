@@ -2,7 +2,7 @@
 #include <vector>
 #include <algorithm>
 using namespace std;
-class Solution {
+class Solution1 {
 public:
   vector<vector<int>> flipAndInvertImage(vector<vector<int>>& A) {
     vector<vector<int>> result;
@@ -39,7 +39,7 @@ int main()
   B.push_back(0);
   A.push_back(B);
 
-  vector<vector<int>> res = Solution().flipAndInvertImage(A);
+  vector<vector<int>> res = Solution1().flipAndInvertImage(A);
   cout<<"[ ";
   for (int i = 0; i < res.size(); ++i) {
     cout<<"[";

@@ -6,7 +6,7 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
-class Solution {
+class Solution2 {
 public:
   ListNode* removeElements(ListNode* head, int val) {
     // 递归解法

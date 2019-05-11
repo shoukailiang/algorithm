@@ -1,4 +1,4 @@
-class Solution {
+class Solution3 {
     public ListNode removeElements(ListNode head, int val) {
         // 递归解法
         if(head == null)

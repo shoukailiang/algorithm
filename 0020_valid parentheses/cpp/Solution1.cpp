@@ -4,7 +4,7 @@
 #include <stack>
 #include <algorithm>
 using namespace std;
-class Solution
+class Solution1
 {
 public:
   bool isValid(string s)
@@ -44,6 +44,6 @@ public:
 };
 int main()
 {
-  cout << Solution().isValid("[]");
+  cout << Solution1().isValid("[]");
   return 0;
 }

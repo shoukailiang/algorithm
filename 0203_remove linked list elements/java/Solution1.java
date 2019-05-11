@@ -1,4 +1,4 @@
-class Solution {
+class Solution1 {
   public ListNode removeElements(ListNode head, int val) {
       // 若一开始那一部分都是需要被删除的元素
       while(head != null && head.val == val){
@@ -26,7 +26,7 @@ class Solution {
 }
 // or
 /*
-class Solution {
+class Solution1 {
     public ListNode removeElements(ListNode head, int val) {
         while(head != null && head.val == val)
             head = head.next;
