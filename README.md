@@ -8,6 +8,8 @@
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | c | Easy |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | c++,java | Easy |
 | 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | c++,java | Easy |
+| 0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | java | Easy |
+| 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | java | Easy |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | c++ | Easy |
 | 0657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | c++ | Easy |
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | c++ | Easy |
