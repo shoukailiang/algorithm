@@ -1,5 +1,7 @@
-# leetcode
-
+# LeetCode
+[![Travis](https://img.shields.io/badge/language-C++-blue.svg)]()
+[![Travis](https://img.shields.io/badge/language-Java-red.svg)]()
+[![Travis](https://img.shields.io/badge/language-C-yellow.svg)]()
 | ID | Title | Solution | Difficulty |
 | ------ | ------ | ------ | ------ |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | c,java,cpp | Easy |
@@ -8,6 +10,7 @@
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | c | Easy |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | c++,java | Easy |
 | 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | c++,java | Easy |
+| 0303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | java | Easy |
 | 0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | java | Easy |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | java | Medium |
 | 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | java | Easy |
