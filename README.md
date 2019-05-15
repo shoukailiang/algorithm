@@ -12,6 +12,7 @@
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | c | Easy |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | c++,java | Easy |
 | 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | c++,java | Easy |
+| 0208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | java | Medium |
 | 0303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | java | Easy |
 | 0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | java | Easy |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | java | Medium |
