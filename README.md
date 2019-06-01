@@ -18,6 +18,7 @@
 | 0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | java | Easy |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | java | Medium |
 | 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | java | Easy |
+| 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | java | Easy |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | c++ | Easy |
 | 0657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | c++ | Easy |
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | c++ | Easy |
