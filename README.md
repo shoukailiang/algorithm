@@ -12,8 +12,9 @@
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | c | Easy |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | c | Easy |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | c++,java | Easy |
+| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | java | Easy |
 | 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | c++,java | Easy |
-| 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | c++ | Easy |
+| 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | c++,java | Easy |
 | 0208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | java | Medium |
 | 0211 | [Add and Search Word - Data structure design)](https://leetcode.com/problems/add-and-search-word-data-structure-design/description/) | java | Medium |
 | 0303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | java | Easy |
