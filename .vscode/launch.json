@@ -3,6 +3,12 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - Solution2",
+      "request": "launch",
+      "mainClass": "Solution2"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - Solution1",
       "request": "launch",
       "mainClass": "Solution1",

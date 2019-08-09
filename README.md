@@ -18,9 +18,10 @@
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | c++,java | Easy |
 | 0208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | java | Medium |
 | 0211 | [Add and Search Word - Data structure design)](https://leetcode.com/problems/add-and-search-word-data-structure-design/description/) | java | Medium |
+| 0217 | [Contains Duplicate)](https://leetcode-cn.com/problems/contains-duplicate/) | cpp | Easy |
 | 0303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | java | Easy |
-| 0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | java | Easy |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | java | Medium |
+| 0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | java | Easy |
 | 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | java | Easy |
 | 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | java | Easy |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | c++ | Easy |
