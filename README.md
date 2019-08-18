@@ -1,8 +1,6 @@
 # LeetCode
 [![Travis](https://img.shields.io/badge/language-C++-blue.svg)]()
 [![Travis](https://img.shields.io/badge/language-Java-red.svg)]()
-[![Travis](https://img.shields.io/badge/language-C-yellow.svg)]()
-
 
 
 | ID | Title | Solution | Difficulty |
@@ -31,6 +29,7 @@
 | 0804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | java | Easy |
 | 0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | c++ | Easy |
 | 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | c++ | Easy |
+| 0976 | [Largest Perimeter Triangle](https://leetcode.com/problems/sort-array-by-parity/) | c++ | Easy |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | c++ | Easy |
 
 # 个人博客
