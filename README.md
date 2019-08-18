@@ -25,7 +25,7 @@
 | 0509 | [Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/) | c++ | Easy |
 | 0657 | [Robot Return to Origin](https://leetcode-cn.com/problems/robot-return-to-origin/) | c++ | Easy |
 | 0709 | [To Lower Case](https://leetcode-cn.com/problems/to-lower-case/) | c++ | Easy |
-| 0771 | [Jewels and Stones](https://leetcode-cn.com/problems/jewels-and-stones/) | c | Easy |
+| 0771 | [Jewels and Stones](https://leetcode-cn.com/problems/jewels-and-stones/) | c,cpp | Easy |
 | 0804 | [Unique Morse Code Words](https://leetcode-cn.com/problems/unique-morse-code-words/) | java | Easy |
 | 0832 | [Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/) | c++ | Easy |
 | 0905 | [Sort Array By Parity](https://leetcode-cn.com/problems/sort-array-by-parity/) | c++ | Easy |
