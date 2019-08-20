@@ -1,7 +1,3 @@
-# LeetCode
-[![Travis](https://img.shields.io/badge/language-C++-blue.svg)]()
-[![Travis](https://img.shields.io/badge/language-Java-red.svg)]()
-
 ## LeetCode Algorithm
 | ID | Title | Solution | Difficulty |
 | ------ | ------ | ------ | ------ |
@@ -33,8 +29,3 @@
 | 0976 | [Largest Perimeter Triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/) | c++ | Easy |
 | 0977 | [Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | c++ | Easy |
 | 1108 | [Defanging an IP Address](https://leetcode-cn.com/problems/defanging-an-ip-address/) | c++ | Easy |
-
-## LeetCode Database
-| 0182 | [Duplicate Emails](https://leetcode-cn.com/problems/duplicate-emails/) | Mysql | Easy |
-# 个人博客
-https://shoukailiang.github.io/
