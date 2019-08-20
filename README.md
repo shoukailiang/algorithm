@@ -16,7 +16,8 @@
 | 0206 | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | c++,java | Easy |
 | 0208 | [Implement Trie (Prefix Tree)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | java | Medium |
 | 0211 | [Add and Search Word - Data structure design)](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design/) | java | Medium |
-| 0217 | [Contains Duplicate)](https://leetcode-cn.com/problems/contains-duplicate/) | cpp | Easy |
+| 0217 | [Contains Duplicate)](https://leetcode-cn.com/problems/contains-duplicate/) | c++ | Easy |
+| 0237 | [Delete Node in a Linked List)](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | c++ | Easy |
 | 0303 | [Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/) | java | Easy |
 | 0347 | [Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/) | java | Medium |
 | 0349 | [Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | java | Easy |
