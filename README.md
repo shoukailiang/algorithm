@@ -35,6 +35,9 @@
 | 1108 | [Defanging an IP Address](https://leetcode-cn.com/problems/defanging-an-ip-address/) | c++ | Easy |
 
 ## LeetCode Database
+| ID | Title | Solution | Difficulty |
+| ------ | ------ | ------ | ------ |
 | 0182 | [Duplicate Emails](https://leetcode-cn.com/problems/duplicate-emails/) | Mysql | Easy |
+| 0595 | [Big Countries](https://leetcode-cn.com/problems/big-countries/) | Mysql | Easy |
 # 个人博客
 https://shoukailiang.github.io/
