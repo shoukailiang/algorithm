@@ -7,6 +7,7 @@
 | 0013 | [Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/) | c | Easy |
 | 0020 | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | c++,java | Easy |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) | java | Easy |
+| 0136 | [Single Number](https://leetcode-cn.com/problems/single-number/) | c++ | Easy |
 | 0189 | [Rotate Array](https://leetcode-cn.com/problems/rotate-array) | java | Easy |
 | 0203 | [Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements/) | c++,java | Easy |
 | 0206 | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | c++,java | Easy |
