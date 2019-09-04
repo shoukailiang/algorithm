@@ -6,7 +6,8 @@
 | 0009 | [Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/) | c | Easy |
 | 0013 | [Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/) | c | Easy |
 | 0020 | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | c++,java | Easy |
-| 0026 | [Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) | java | Easy |
+| 0026 | [Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) | java,c++ | Easy |
+| 0121 | [Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | c++ | Easy |
 | 0136 | [Single Number](https://leetcode-cn.com/problems/single-number/) | c++ | Easy |
 | 0189 | [Rotate Array](https://leetcode-cn.com/problems/rotate-array) | java | Easy |
 | 0203 | [Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements/) | c++,java | Easy |
@@ -29,4 +30,5 @@
 | 0905 | [Sort Array By Parity](https://leetcode-cn.com/problems/sort-array-by-parity/) | c++ | Easy |
 | 0976 | [Largest Perimeter Triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/) | c++ | Easy |
 | 0977 | [Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | c++ | Easy |
+| 1051 | [Height Checker](https://leetcode-cn.com/problems/height-checker/) | c++ | Easy |
 | 1108 | [Defanging an IP Address](https://leetcode-cn.com/problems/defanging-an-ip-address/) | c++ | Easy |

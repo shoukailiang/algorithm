@@ -3,37 +3,29 @@
 #include <vector>
 #include <stack>
 #include <algorithm>
+
 using namespace std;
-class Solution1
-{
+
+class Solution1 {
 public:
-  bool isValid(string s)
-  {
+  bool isValid(string s) {
     stack<char> first;
-    for (int i = 0; i < s.size(); ++i)
-    {
+    for (int i = 0; i < s.size(); ++i) {
       cout << s[i] << endl;
-      if (s[i] == '(' || s[i] == '{' || s[i] == '[')
-      {
+      if (s[i] == '(' || s[i] == '{' || s[i] == '[') {
         first.push(s[i]);
-      }
-      else
-      {
+      } else {
         // 若是"["
-        if (first.empty())
-        {
+        if (first.empty()) {
           return false;
         }
-        if (s[i] == ')' && first.top() != '(')
-        {
+        if (s[i] == ')' && first.top() != '(') {
           return false;
         }
-        if (s[i] == ']' && first.top() != '[')
-        {
+        if (s[i] == ']' && first.top() != '[') {
           return false;
         }
-        if (s[i] == '}' && first.top() != '{')
-        {
+        if (s[i] == '}' && first.top() != '{') {
           return false;
         }
         first.pop();
@@ -42,8 +34,8 @@ public:
     return first.empty();
   }
 };
-int main()
-{
+
+int main() {
   cout << Solution1().isValid("[]");
   return 0;
 }
