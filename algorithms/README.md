@@ -22,6 +22,8 @@
 | 0350 | [Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | java | Easy |
 | 0387 | [First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | java | Easy |
 | 0509 | [Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/) | c++ | Easy |
+| 0561 | [Array Partition I](https://leetcode-cn.com/problems/array-partition-i) | c++ | Easy |
+| 0657 | [Robot Return to Origin](https://leetcode-cn.com/problems/robot-return-to-origin/) | c++ | Easy |
 | 0657 | [Robot Return to Origin](https://leetcode-cn.com/problems/robot-return-to-origin/) | c++ | Easy |
 | 0709 | [To Lower Case](https://leetcode-cn.com/problems/to-lower-case/) | c++ | Easy |
 | 0771 | [Jewels and Stones](https://leetcode-cn.com/problems/jewels-and-stones/) | c,cpp | Easy |
