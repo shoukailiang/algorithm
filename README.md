@@ -37,6 +37,7 @@
 | 0905 | [Sort Array By Parity](https://leetcode-cn.com/problems/sort-array-by-parity/) | c++ | Easy |
 | 0976 | [Largest Perimeter Triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/) | c++ | Easy |
 | 0977 | [Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | c++ | Easy |
+| 0999 | [Available Captures for Rook](https://leetcode-cn.com/problems/available-captures-for-rook/) | java | Easy |
 | 1051 | [Height Checker](https://leetcode-cn.com/problems/height-checker/) | c++ | Easy |
 | 1108 | [Defanging an IP Address](https://leetcode-cn.com/problems/defanging-an-ip-address/) | c++ | Easy |
 | 面试题 17.16 | [the-masseuse-lcci](https://leetcode-cn.com/problems/the-masseuse-lcci/) | java | Easy |
