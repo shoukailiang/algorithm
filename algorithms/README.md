@@ -6,7 +6,9 @@
 | 0009 | [Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/) | c | Easy |
 | 0013 | [Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/) | c | Easy |
 | 0020 | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | c++,java | Easy |
+| 0021 | [Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | c++ | Easy |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) | java,c++ | Easy |
+| 0083 | [Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | c++ | Easy |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | c++ | Easy |
 | 0136 | [Single Number](https://leetcode-cn.com/problems/single-number/) | c++ | Easy |
 | 0189 | [Rotate Array](https://leetcode-cn.com/problems/rotate-array) | java | Easy |
@@ -38,4 +40,5 @@
 | 0999 | [Available Captures for Rook](https://leetcode-cn.com/problems/available-captures-for-rook/) | java | Easy |
 | 1051 | [Height Checker](https://leetcode-cn.com/problems/height-checker/) | c++ | Easy |
 | 1108 | [Defanging an IP Address](https://leetcode-cn.com/problems/defanging-an-ip-address/) | c++ | Easy |
+| 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | c++ | Easy |
 | 面试题 17.16 | [the-masseuse-lcci](https://leetcode-cn.com/problems/the-masseuse-lcci/) | java | Easy |
