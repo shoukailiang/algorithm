@@ -46,8 +46,10 @@
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | c++ | Easy |
 | 面试题 17.16 | [the-masseuse-lcci](https://leetcode-cn.com/problems/the-masseuse-lcci/) | java | Easy |
 | 面试题 22 | [lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | cpp | Easy |
+| 面试题 24 | [fan-zhuan-lian-biao-lcof](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | cpp | Easy |
 | 面试题 02.02 | [kth-node-from-end-of-list-lcci](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/) | cpp | Easy |
 | 面试题 02.03 | [delete-middle-node-lcci](https://leetcode-cn.com/problems/delete-middle-node-lcci/) | cpp | Easy |
+| 面试题 02.07 | [intersection-of-two-linked-lists-lcci](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/) | cpp | Easy |
 
 
 ## LeetCode Database
