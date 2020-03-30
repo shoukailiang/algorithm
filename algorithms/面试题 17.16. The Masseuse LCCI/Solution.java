@@ -15,14 +15,10 @@ class Solution {
         return dp[len - 1];
       }
     }
-  }
-
-  public class Main {
-
     public static void main(final String[] args) {
       final int n[] = new int[] { 1, 2, 3, 1 };
       final Solution solution = new Solution();
       final int massage = solution.massage(n);
         System.out.println(massage);
     }
-}
+  }
