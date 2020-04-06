@@ -11,6 +11,7 @@
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | c++ | Easy |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | c++ | Easy |
 | 0136 | [Single Number](https://leetcode-cn.com/problems/single-number/) | c++ | Easy |
+| 0150 | [Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | c++ | Medium |
 | 0189 | [Rotate Array](https://leetcode-cn.com/problems/rotate-array) | java | Easy |
 | 0203 | [Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements/) | c++,java | Easy |
 | 0206 | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | c++,java | Easy |
@@ -38,6 +39,7 @@
 | 0976 | [Largest Perimeter Triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/) | c++ | Easy |
 | 0977 | [Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | c++ | Easy |
 | 0999 | [Available Captures for Rook](https://leetcode-cn.com/problems/available-captures-for-rook/) | java | Easy |
+| 1021 | [remove-outermost-parentheses](https://leetcode-cn.com/problems/remove-outermost-parentheses/) | cpp | Easy |
 | 1051 | [Height Checker](https://leetcode-cn.com/problems/height-checker/) | c++ | Easy |
 | 1108 | [Defanging an IP Address](https://leetcode-cn.com/problems/defanging-an-ip-address/) | c++ | Easy |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | c++ | Easy |
