@@ -1,4 +1,5 @@
 # LeetCode
+我发现换个电脑提交的代码就没了，原来数据放在本地的~~
 [![Travis](https://img.shields.io/badge/language-C++-blue.svg)]()
 [![Travis](https://img.shields.io/badge/language-Java-red.svg)]()
 
@@ -7,6 +8,7 @@
 | ------ | ------ | ------ | ------ |
 | 0001 | [Two Sum](https://leetcode-cn.com/problems/two-sum/) | c,java,cpp | Easy |
 | 0007 | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/) | c | Easy |
+| 0008 | [String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | c++ | Medium |
 | 0009 | [Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/) | c | Easy |
 | 0013 | [Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/) | c | Easy |
 | 0020 | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | c++,java | Easy |
