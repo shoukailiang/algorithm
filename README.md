@@ -59,14 +59,15 @@
 | 面试题 02.03 | [delete-middle-node-lcci](https://leetcode-cn.com/problems/delete-middle-node-lcci/) | cpp | Easy |
 | 面试题 02.06 | [palindrome-linked-list-lcci](https://leetcode-cn.com/problems/palindrome-linked-list-lcci/) | cpp | Easy |
 | 面试题 02.07 | [intersection-of-two-linked-lists-lcci](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/) | cpp | Easy |
-
 | 剑指 Offer 03. 数组中重复的数字 | [剑指 Offer 03. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | java | Easy |
-
 | 剑指 Offer 04. 二维数组中的查找 | [剑指 Offer 04. 二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | java,cpp | Medium |
-
 | 剑指 Offer 05. 替换空格 | [剑指 Offer 05. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | java,cpp | Easy |
-
 | 剑指 Offer 06. 从尾到头打印链表 | [剑指 Offer 06. 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | cpp | Easy |
+| 剑指 Offer 10- I. 斐波那契数列 | [剑指 Offer 10- I. 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | cpp | Easy |
+| 剑指 Offer 10- II. 青蛙跳台阶问题| [剑指 Offer 10- II. 青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | cpp | Easy |
+| 剑指 Offer 11. 旋转数组的最小数字| [剑指 Offer 11. 旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | cpp | Easy |
+| 剑指 Offer 18. 删除链表的节点| [剑指 Offer 18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | cpp | Easy |
+| 剑指 Offer 55 - I. 二叉树的深度| [剑指 Offer 55 - I. 二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/) | cpp | Easy |
 
 
 
@@ -77,5 +78,7 @@
 | 0595 | [Big Countries](https://leetcode-cn.com/problems/big-countries/) | Mysql | Easy |
 # 个人博客
 https://blog.csdn.net/qq_37350725?spm=1000.2115.3001.5343
+
 https://juejin.cn/user/4001878054279655
-https://shoukailiang.github.io/
+
+https://shoukailiang.github.io/(停更了)
