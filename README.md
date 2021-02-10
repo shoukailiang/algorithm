@@ -1,5 +1,6 @@
 # LeetCode
 我发现换个电脑提交的代码就没了，原来数据放在本地的~~
+
 [![Travis](https://img.shields.io/badge/language-C++-blue.svg)]()
 [![Travis](https://img.shields.io/badge/language-Java-red.svg)]()
 
@@ -52,11 +53,21 @@
 | 面试题 18 | [shan-chu-lian-biao-de-jie-dian-lcof](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | cpp | Easy |
 | 面试题 22 | [lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | cpp | Easy |
 | 面试题 24 | [fan-zhuan-lian-biao-lcof](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | cpp | Easy |
+| 面试题 01.01 | [面试题 01.01. 判定字符是否唯一](https://leetcode-cn.com/problems/is-unique-lcci/) | cpp | Easy 
 | 面试题 02.01 | [remove-duplicate-node-lcci](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/) | cpp | Easy 
 | 面试题 02.02 | [kth-node-from-end-of-list-lcci](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/) | cpp | Easy |
 | 面试题 02.03 | [delete-middle-node-lcci](https://leetcode-cn.com/problems/delete-middle-node-lcci/) | cpp | Easy |
 | 面试题 02.06 | [palindrome-linked-list-lcci](https://leetcode-cn.com/problems/palindrome-linked-list-lcci/) | cpp | Easy |
 | 面试题 02.07 | [intersection-of-two-linked-lists-lcci](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/) | cpp | Easy |
+
+| 剑指 Offer 03. 数组中重复的数字 | [剑指 Offer 03. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | java | Easy |
+
+| 剑指 Offer 04. 二维数组中的查找 | [剑指 Offer 04. 二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | java,cpp | Medium |
+
+| 剑指 Offer 05. 替换空格 | [剑指 Offer 05. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | java,cpp | Easy |
+
+| 剑指 Offer 06. 从尾到头打印链表 | [剑指 Offer 06. 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | cpp | Easy |
+
 
 
 ## LeetCode Database
@@ -65,4 +76,6 @@
 | 0182 | [Duplicate Emails](https://leetcode-cn.com/problems/duplicate-emails/) | Mysql | Easy |
 | 0595 | [Big Countries](https://leetcode-cn.com/problems/big-countries/) | Mysql | Easy |
 # 个人博客
+https://blog.csdn.net/qq_37350725?spm=1000.2115.3001.5343
+https://juejin.cn/user/4001878054279655
 https://shoukailiang.github.io/
