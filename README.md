@@ -19,11 +19,13 @@
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | c++ | Easy |
 | 0136 | [Single Number](https://leetcode-cn.com/problems/single-number/) | c++ | Easy |
 | 0150 | [Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | c++ | Medium |
+| 0151 | [翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | c++ | Medium |
 | 0189 | [Rotate Array](https://leetcode-cn.com/problems/rotate-array) | java | Easy |
 | 0203 | [Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements/) | c++,java | Easy |
 | 0206 | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | c++,java | Easy |
 | 0208 | [Implement Trie (Prefix Tree)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | java | Medium |
 | 0211 | [Add and Search Word - Data structure design)](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design/) | java | Medium |
+| 0215 | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | cpp | Medium |
 | 0217 | [Contains Duplicate)](https://leetcode-cn.com/problems/contains-duplicate/) | c++ | Easy |
 | 0237 | [Delete Node in a Linked List)](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | c++ | Easy |
 | 0303 | [Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/) | java | Easy |
@@ -35,6 +37,7 @@
 | 0561 | [Array Partition I](https://leetcode-cn.com/problems/array-partition-i) | c++ | Easy |
 | 0657 | [Robot Return to Origin](https://leetcode-cn.com/problems/robot-return-to-origin/) | c++ | Easy |
 | 0709 | [To Lower Case](https://leetcode-cn.com/problems/to-lower-case/) | c++ | Easy |
+| 0724 | [寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/) | c++ | Easy |
 | 0771 | [Jewels and Stones](https://leetcode-cn.com/problems/jewels-and-stones/) | c,cpp | Easy |
 | 0804 | [Unique Morse Code Words](https://leetcode-cn.com/problems/unique-morse-code-words/) | java | Easy |
 | 0832 | [Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/) | c++ | Easy |
@@ -67,7 +70,11 @@
 | 剑指 Offer 10- II. 青蛙跳台阶问题| [剑指 Offer 10- II. 青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | cpp | Easy |
 | 剑指 Offer 11. 旋转数组的最小数字| [剑指 Offer 11. 旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | cpp | Easy |
 | 剑指 Offer 18. 删除链表的节点| [剑指 Offer 18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | cpp | Easy |
+| 剑指 Offer 22. 链表中倒数第k个节点| [剑指 Offer 22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof) | cpp | Easy |
+| 剑指 Offer 24. 反转链表| [剑指 Offer 24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/submissions/) | cpp | Easy |
+| 剑指 Offer 40. 最小的k个数| [剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | java,cpp | Easy |
 | 剑指 Offer 55 - I. 二叉树的深度| [剑指 Offer 55 - I. 二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/) | cpp | Easy |
+| 剑指 Offer 58 - I. 翻转单词顺序| [剑指 Offer 58 - I. 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | cpp | Easy |
 
 
 
