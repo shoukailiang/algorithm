@@ -57,6 +57,9 @@
 | 面试题 22 | [lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | cpp | Easy |
 | 面试题 24 | [fan-zhuan-lian-biao-lcof](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | cpp | Easy |
 | 面试题 01.01 | [面试题 01.01. 判定字符是否唯一](https://leetcode-cn.com/problems/is-unique-lcci/) | cpp | Easy 
+| 面试题 01.02 | [面试题 01.02. 判定是否互为字符重排](https://leetcode-cn.com/problems/check-permutation-lcci/) | cpp | Easy 
+| 面试题 01.03 | [面试题 01.03. URL化](https://leetcode-cn.com/problems/string-to-url-lcci/) | cpp | Easy  
+| 面试题 01.04 | [面试题 01.04. 回文排列](https://leetcode-cn.com/problems/palindrome-permutation-lcci/) | cpp | Easy  
 | 面试题 02.01 | [remove-duplicate-node-lcci](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/) | cpp | Easy 
 | 面试题 02.02 | [kth-node-from-end-of-list-lcci](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/) | cpp | Easy |
 | 面试题 02.03 | [delete-middle-node-lcci](https://leetcode-cn.com/problems/delete-middle-node-lcci/) | cpp | Easy |
@@ -69,6 +72,7 @@
 | 剑指 Offer 10- I. 斐波那契数列 | [剑指 Offer 10- I. 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | cpp | Easy |
 | 剑指 Offer 10- II. 青蛙跳台阶问题| [剑指 Offer 10- II. 青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | cpp | Easy |
 | 剑指 Offer 11. 旋转数组的最小数字| [剑指 Offer 11. 旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | cpp | Easy |
+| 剑指 Offer 17. 打印从1到最大的n位数| [剑指 Offer 17. 打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/) | cpp | Easy |
 | 剑指 Offer 18. 删除链表的节点| [剑指 Offer 18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | cpp | Easy |
 | 剑指 Offer 22. 链表中倒数第k个节点| [剑指 Offer 22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof) | cpp | Easy |
 | 剑指 Offer 24. 反转链表| [剑指 Offer 24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/submissions/) | cpp | Easy |
