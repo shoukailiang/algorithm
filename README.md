@@ -52,6 +52,7 @@
 | 1051 | [Height Checker](https://leetcode-cn.com/problems/height-checker/) | c++ | Easy |
 | 1108 | [Defanging an IP Address](https://leetcode-cn.com/problems/defanging-an-ip-address/) | c++ | Easy |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | c++ | Easy |
+| 1480 | [一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array/) | c++ | Easy |
 | 面试题 17.16 | [the-masseuse-lcci](https://leetcode-cn.com/problems/the-masseuse-lcci/) | java | Easy |
 | 面试题 18 | [shan-chu-lian-biao-de-jie-dian-lcof](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | cpp | Easy |
 | 面试题 22 | [lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | cpp | Easy |
