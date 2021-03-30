@@ -80,6 +80,8 @@
 | 剑指 Offer 40. 最小的k个数| [剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | java,cpp | Easy |
 | 剑指 Offer 55 - I. 二叉树的深度| [剑指 Offer 55 - I. 二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/) | cpp | Easy |
 | 剑指 Offer 58 - I. 翻转单词顺序| [剑指 Offer 58 - I. 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | cpp | Easy |
+| 剑指 Offer 58 - II. 左旋转字符串| [剑指 Offer 58 - II. 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) | cpp | Easy |
+
 
 
 
@@ -92,5 +94,3 @@
 https://blog.csdn.net/qq_37350725?spm=1000.2115.3001.5343
 
 https://juejin.cn/user/4001878054279655
-
-https://shoukailiang.github.io/(停更了)
