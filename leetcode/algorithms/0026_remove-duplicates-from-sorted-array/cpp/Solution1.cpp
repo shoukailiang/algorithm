@@ -6,15 +6,20 @@ using namespace std;
 
 class Solution {
 public:
-  int removeDuplicates(vector<int> &nums) {
-    int i=0;
-    for (int j = 1; j < nums.size(); ++j) {
-      if(nums[i]!=nums[j]){
+  int removeDuplicates(vector<int>& nums) {
+    if(nums.size()==0){
+      return 0;
+    }
+    int j=0,i=1;
+    while(i<nums.size()){
+      if(nums[i]==nums[j]){
         i++;
-        nums[i] = nums[j];
+      }else{
+        j++;
+        nums[j] = nums[i];
       }
     }
-    return i + 1;
+    return j+1;  
   }
 };
 
