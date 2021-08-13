@@ -13,36 +13,33 @@
  *     }
  * }
  */
-// 广度优先遍历
 class Solution {
-    class QueueNode{
-        TreeNode node;
-        int deep;
-        public QueueNode(TreeNode node,int deep){
-            this.node = node;
-            this.deep = deep;
-        }
-    }
+    
     public int minDepth(TreeNode root) {
         if(root==null){
             return 0;
         }
-        Queue<QueueNode> queue = new LinkedList<QueueNode>();
-        queue.offer(new QueueNode(root,1));
+        Queue<TreeNode> queue = new LinkedList<TreeNode>();
+        queue.offer(root);
+        int depth =1;
         while(!queue.isEmpty()){
-            QueueNode qnode = queue.poll();
-            TreeNode node = qnode.node;
-            int deep = qnode.deep;
-            if(node.left==null&&node.right==null){
-                return deep;
+            int size = queue.size();
+            for(int i=0;i<size;i++){
+                TreeNode cur = queue.poll();
+                // 判断是否到达终点
+                if(cur.left==null&&cur.right==null){
+                    return depth;
+                }
+                // 将相邻节点加入队列
+                if(cur.left!=null){
+                    queue.offer(cur.left);
+                }
+                if(cur.right!=null){
+                    queue.offer(cur.right);
+                }
             }
-            if(node.left!=null){
-                queue.offer(new QueueNode(node.left,deep+1));
-            }
-            if(node.right!=null){
-                queue.offer(new QueueNode(node.right,deep+1));
-            }
+            depth++;
         }
-        return 0;
+        return depth;
     }
 }
