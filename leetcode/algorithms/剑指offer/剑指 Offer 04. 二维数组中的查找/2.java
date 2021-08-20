@@ -1,17 +1,17 @@
-// 优化版
 class Solution {
-  public boolean findNumberIn2DArray(int[][] matrix, int target) {
-      int i = matrix.length-1;
-      int j = 0;
-      while(i>=0&&j<=matrix[i].length-1){
-          if(matrix[i][j]<target) {
-              j++;
-          }else if(matrix[i][j]>target){
-              i--;
-          }else{
-              return true;
-          }
-      }
-      return false;
-  }
+    public boolean findNumberIn2DArray(int[][] matrix, int target) {
+        // 从左下方开始,比左下方大,右移动,反之,上移
+        int row = matrix.length-1;
+        int col = 0;
+        while(row>=0&&col<matrix[0].length){
+            if(matrix[row][col]>target){
+                row--;
+            }else if(matrix[row][col]<target){
+               col++;
+            }else{
+                return true;
+            }
+        }
+        return false;
+    }
 }
