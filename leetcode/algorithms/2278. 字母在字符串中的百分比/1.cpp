@@ -1,3 +1,6 @@
+#include <iostream>
+#include <vector>
+using namespace std;
 class Solution {
 public:
     int percentageLetter(string s, char letter) {
@@ -10,3 +13,8 @@ public:
         return cnt*100/s.size();
     }
 };
+int main() {
+    vector<int> arr = {49,18,16};
+    vector<vector<int>> pieces ={{16,18,49}};
+    cout<<(new Solution())->percentageLetter("abcdabbb",'b')<<endl;
+}
