@@ -1,28 +1,24 @@
-#include<iostream>
-#include <vector>
-
+#include <iostream>
+#include "vector"
+#include "algorithm"
 using namespace std;
-
 class Solution {
 public:
-  int maxProfit(vector<int> &prices) {
-    int min = INT_MAX;
-    int maxp = 0;
-    for (int i = 0; i < prices.size(); ++i) {
-      if (prices[i] < min) {
-        min = prices[i];
-      } else if (prices[i] - min > maxp) {
-        maxp = prices[i] - min;
-      }
+    int maxProfit(vector<int>& prices) {
+        int min = INT32_MAX;
+        int maxp = 0;
+        for (const auto &item: prices){
+            if(item<min){
+                min = item;
+            }else if(item-min>maxp){
+                maxp = item-min;
+            }
+        }
+        return maxp;
     }
-
-    return maxp;
-  }
 };
-
 int main() {
-  vector<int> nums = {7, 5, 3, 6, 4, 1};
-  int a = Solution().maxProfit(nums);
-  cout << a << " ";
-  return 0;
+    vector<int> temp = {7,1,5,3,6,4};
+    cout<<(new Solution())->maxProfit(temp)<<endl;
+    return 0;
 }
