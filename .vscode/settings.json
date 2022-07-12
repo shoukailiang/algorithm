@@ -33,6 +33,8 @@
     "typeinfo": "cpp",
     "utility": "cpp",
     "algorithm": "cpp",
-    "unordered_set": "cpp"
+    "unordered_set": "cpp",
+    "list": "cpp",
+    "xstring": "cpp"
   }
 }
