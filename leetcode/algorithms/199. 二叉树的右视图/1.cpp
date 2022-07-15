@@ -19,27 +19,27 @@ using namespace std;
 
 class Solution {
 public:
-    vector<vector<int>> levelOrder(TreeNode* root) {
-        vector<vector<int>> res;
-        queue<TreeNode*> q;
-        if(root!=nullptr){
-            q.push(root);
+    vector<int> rightSideView(TreeNode* root) {
+        queue<TreeNode*> que;
+        if(root!= nullptr){
+            que.push(root);
         }
-        while(!q.empty()){
-            vector<int> temp;
-            int size = q.size();
-            for(int i=0;i<size;i++){
-                TreeNode* t = q.front();
-                q.pop();
-                temp.push_back(t->val);
-                if(t->left){
-                    q.push(t->left);
+        vector<int> res;
+        while(!que.empty()){
+            int size = que.size();
+            for (int i = 0; i < size; ++i) {
+                TreeNode* node = que.front();
+                que.pop();
+                if(i==size-1){
+                    res.push_back(node->val);
                 }
-                if(t->right){
-                    q.push(t->right);
+                if(node->left){
+                    que.push(node->left);
+                }
+                if(node->right){
+                    que.push(node->right);
                 }
             }
-            res.push_back(temp);
         }
         return res;
     }
@@ -55,11 +55,9 @@ int main() {
     t1->right = t3;
     t3->left = t4;
     t3->right = t5;
-    vector<vector<int>> res = Solution().levelOrder(t1);
+    vector<int> res = Solution().rightSideView(t1);
     for (const auto &items: res){
-        for (const auto &item: items){
-            cout<<item <<" ";
-        }
+        cout<<items<<" ";
     }
     return 0;
 }

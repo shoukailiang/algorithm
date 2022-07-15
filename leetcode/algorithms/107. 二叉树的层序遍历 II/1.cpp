@@ -19,28 +19,29 @@ using namespace std;
 
 class Solution {
 public:
-    vector<vector<int>> levelOrder(TreeNode* root) {
-        vector<vector<int>> res;
-        queue<TreeNode*> q;
+    vector<vector<int>> levelOrderBottom(TreeNode* root) {
+        queue<TreeNode*> que;
         if(root!=nullptr){
-            q.push(root);
+            que.push(root);
         }
-        while(!q.empty()){
-            vector<int> temp;
-            int size = q.size();
+        vector<vector<int>> res;
+        while(!que.empty()){
+            int size = que.size();
+            vector<int> vec;
             for(int i=0;i<size;i++){
-                TreeNode* t = q.front();
-                q.pop();
-                temp.push_back(t->val);
-                if(t->left){
-                    q.push(t->left);
+                TreeNode* node = que.front();
+                que.pop();
+                vec.push_back(node->val);
+                if(node->left){
+                    que.push(node->left);
                 }
-                if(t->right){
-                    q.push(t->right);
+                if(node->right){
+                    que.push(node->right);
                 }
             }
-            res.push_back(temp);
+            res.push_back(vec);
         }
+        reverse(res.begin(),res.end());
         return res;
     }
 };
@@ -55,11 +56,12 @@ int main() {
     t1->right = t3;
     t3->left = t4;
     t3->right = t5;
-    vector<vector<int>> res = Solution().levelOrder(t1);
+    vector<vector<int>> res = Solution().levelOrderBottom(t1);
     for (const auto &items: res){
         for (const auto &item: items){
             cout<<item <<" ";
         }
+        cout<<endl;
     }
     return 0;
 }
