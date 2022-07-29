@@ -1,5 +1,3 @@
-package com.company;
-
 import java.util.HashMap;
 // 滑动窗口
 class Solution {

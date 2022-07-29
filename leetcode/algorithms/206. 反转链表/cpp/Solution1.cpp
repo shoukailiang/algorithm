@@ -1,21 +1,25 @@
 /**
  * Definition for singly-linked list.
  * struct ListNode {
- *     int val; // 数据域
- *     ListNode *next;  //指针域
- *     ListNode(int x) : val(x), next(NULL) {} //构造函数
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
 class Solution {
 public:
-  ListNode* reverseList(ListNode* head) {
-    ListNode *new_head = NULL;  //指向新链表头结点的指针
-    while (head){
-      ListNode *next = head->next;// 备份head->next
-      head->next = new_head;//更新head->next
-      new_head = head;// 移动new_head
-      head=next; // 遍历链表
+    ListNode* reverseList(ListNode* head) {
+        ListNode* pre = nullptr;
+        ListNode* cur = head;
+        ListNode* temp ;
+        while(cur){
+            temp = cur->next;
+            cur->next = pre;
+            pre = cur;
+            cur = temp;
+        }
+        return pre;
     }
-    return new_head;
-  }
 };

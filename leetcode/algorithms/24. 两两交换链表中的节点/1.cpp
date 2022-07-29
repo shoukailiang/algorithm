@@ -10,18 +10,18 @@
  */
 class Solution {
 public:
-    ListNode* removeElements(ListNode* head, int val) {
+    ListNode* swapPairs(ListNode* head) {
         ListNode* dummy = new ListNode(0);
         dummy->next = head;
         ListNode* cur = dummy;
-        while(cur&&cur->next){
-            if(cur->next->val==val){
-                ListNode* tmp = cur->next;
-                cur->next = cur->next->next;
-                delete tmp;
-            }else{
-                cur = cur->next;
-            }
+        while(cur->next&&cur->next->next){
+            ListNode* tmp = cur->next;
+            ListNode* tmp1 = cur->next->next;
+            ListNode* tmp2 = cur->next->next->next;
+            cur->next = tmp1;
+            tmp1->next = tmp;
+            tmp->next = tmp2;
+            cur = cur->next->next;
         }
         return dummy->next;
     }
