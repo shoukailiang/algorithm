@@ -11,7 +11,6 @@ public:
   bool isValid(string s) {
     stack<char> first;
     for (int i = 0; i < s.size(); ++i) {
-      cout << s[i] << endl;
       if (s[i] == '(' || s[i] == '{' || s[i] == '[') {
         first.push(s[i]);
       } else {
