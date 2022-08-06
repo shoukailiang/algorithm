@@ -35,6 +35,9 @@
     "algorithm": "cpp",
     "unordered_set": "cpp",
     "list": "cpp",
-    "xstring": "cpp"
+    "xstring": "cpp",
+    "xhash": "cpp",
+    "xtree": "cpp",
+    "xutility": "cpp"
   }
 }
