@@ -7,19 +7,17 @@
 using namespace std;
 
 class Solution {
+private:
+    int fn[101];
 public:
     int climbStairs(int n) {
-        int memo[n+1] ;
-        if(n==1||n==2){
-            return n;
+        fn[0] = 0;
+        fn[1] = 1;
+        fn[2] = 2;
+        for(int i =3;i<=n;i++){
+            fn[i] = (fn[i-1]+fn[i-2]);
         }
-        memo[1] = 1;
-        memo[2] = 2;
-
-        for(int i=3;i<=n;i++){
-            memo[i] = memo[i-1]+memo[i-2];
-        }
-        return memo[n];
+        return fn[n];
     }
 };
 int main() {
